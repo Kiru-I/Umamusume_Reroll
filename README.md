@@ -1,3 +1,4 @@
+WARNING : VERY OUTDATED
 # Umamusume Reroll Macro (AutoHotKey v1.1.37.02)
 
 This is an experimental reroll macro for the game Umamusume, built with AutoHotKey and Python.
